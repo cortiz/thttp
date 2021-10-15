@@ -1,0 +1,6 @@
+GET /
+header:"{{.Now.UTC}}"
+
+{
+    "data":"datra"
+}
